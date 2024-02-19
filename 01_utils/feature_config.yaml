@@ -1,0 +1,5 @@
+sampling_rate   : 22050
+freq_bins       : 192
+time_bins       : 108
+hop_length      : 2048
+bins_per_octave : 24
