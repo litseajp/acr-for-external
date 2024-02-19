@@ -1,0 +1,10 @@
+model:
+  hidden_size   : 96
+  n_chords      : 170
+
+experiment:
+  batch_size    : 128
+  max_epochs    : 200
+  learning_rate : 0.0001
+  reduce_factor : 0.8
+  min_lr        : 0.000001
